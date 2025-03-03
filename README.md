@@ -5,5 +5,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomvapeuser&layout=donut" />
 </a><br>
 <a>
-  <img height=20 src="![](https://komarev.com/ghpvc/?RandomVapeUser&color=green)" />
+  <img height=20 src="![](https://komarev.com/ghpvc/?username=RandomVapeUser&color=green)" />
 </a>
